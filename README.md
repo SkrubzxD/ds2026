@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Nguyễn Đặng Nhật Anh
+* Student ID: 23BI14028
 * Student Group ID: Not-for-now
