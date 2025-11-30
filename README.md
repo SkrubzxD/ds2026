@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyễn Đặng Nhật Anh
 * Student ID: 23BI14028
-* Student Group ID: Not-for-now
+* Student Group ID: 10
